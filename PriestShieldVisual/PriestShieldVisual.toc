@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Priest Shield Visual
+## IconTexture: Interface\Icons\Spell_Holy_PowerWordShield
+## Notes: Displays your remaining Power Word: Shield absorb.
+## LoadConditions: [class:PRIEST]
+## Author: Matt Underation
+## Version: 1.0.3
+## SavedVariables: PriestShieldVisualDB
+
+PriestShieldVisual.lua
